@@ -1,6 +1,6 @@
-# Blogger Platform
+# Blogging Platform
 
-Blogger platform for E6 Data Interview Test
+Blogging Platform for E6 Data Interview Test
 
 ## Technichal stack used
 
@@ -104,7 +104,7 @@ Blogger platform for E6 Data Interview Test
 7. Apply migrations: `python manage.py migrate`
 8. Run the development server: `python manage.py runserver`
 
-Now, the Django Blog API is up and running. You can access the API endpoints as described above.
+Now, the Django Blogging Platform is up and running. You can access the API endpoints as described above.
 
 ## Documentation
 

@@ -93,7 +93,7 @@ Blogging Platform for E6 Data Interview Test
 
 ## Getting Started
 
-1. Clone the repository: ``
+1. Clone the repository: `https://github.com/faismfanu/Blogging_Platform.git`
 2. Navigate to the project directory: `cd Blog`
 3. Set up a virtual environment: `python -m venv venv`
 4. Activate the virtual environment:
